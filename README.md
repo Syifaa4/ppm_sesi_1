@@ -1,17 +1,16 @@
-# ppm_sesi1
+# PPM Sesi 1 - Flutter Counter
+Aplikasi Flutter sederhana untuk memenuhi tugas PPM Sesi 1.
 
-A new Flutter project.
+## Fitur
+- AppBar dengan identitas mahasiswa
+- Kartu identitas mahasiswa
+- Counter dengan tombol Tambah, Kurang, dan Reset
+- Counter tidak dapat bernilai kurang dari 0
+- SnackBar ketika tombol Kurang ditekan saat counter bernilai 0
+- Perubahan warna angka berdasarkan bilangan genap atau ganjil
+- Status Angka Genap dan Angka Ganjil
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Identitas
+**Nama:** Syifa Nurul Afifah  
+**NIM:** 20240040286  
+**Prodi/Kelas:** Teknik Informatika - TI24 G
