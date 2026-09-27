@@ -1,6 +1,9 @@
 # PPM Sesi 1 - Flutter Counter
 Aplikasi Flutter sederhana untuk memenuhi tugas PPM Sesi 1.
 
+# Tampilan Aplikasi
+<img width="1547" height="813" alt="image" src="https://github.com/user-attachments/assets/c5f0300b-7206-4922-b54b-80f87a65f111" />
+
 ## Fitur
 - AppBar dengan identitas mahasiswa
 - Kartu identitas mahasiswa
